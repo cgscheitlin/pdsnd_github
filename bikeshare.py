@@ -202,6 +202,7 @@ def raw_data_disp(df):
 
 def main():
     while True:
+        #Repeatedly ask for filter data until user says anything other than 'yes' when asked to continue
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
