@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+05/05/2020 #Cinco de Mayo!
 
 ### Project Title
-Replace the Project Title
+Bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+This project summarizes bikeshare data from three cities based on user-selectable filters.
 
 ### Files used
-Include the files used
+washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Richard @ Udacity!
+stackoverflow.com
+python documentation
