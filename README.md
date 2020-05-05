@@ -5,7 +5,7 @@
 Bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+This project summarizes bikeshare data from three cities based on user-selectable filters.
 
 ### Files used
 Include the files used
